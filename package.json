@@ -1,0 +1,8 @@
+{
+  "name": "has-id",
+  "version": "1.0.2",
+  "description": "Helper to check if an object has as an id",
+  "main": "index.js",
+  "author": "janneh",
+  "license": "MIT"
+}
